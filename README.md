@@ -10,7 +10,7 @@ It helps me learn about Linux system administration, containerization, and IT in
 
 - **Server:** Dell OptiPlex 3070 Micro
 - **CPU:** Intel i5-9500T (6 cores / 6 threads)
-- **RAM:** 16 GB DDR4
+- **RAM:** 32 GB DDR4
 - **Storage:**
   - 1 TB Crucial P2 NVMe SSD (system + VMs/containers)
   - 1 TB SATA HDD (TrueNAS passthrough, media storage)
@@ -50,7 +50,13 @@ It helps me learn about Linux system administration, containerization, and IT in
 
 ## 📸 Photos & Screenshots
 
-*(Add pictures of your OptiPlex, and screenshots of Proxmox dashboard, Portainer, Jellyfin, etc.)*  
+### Physical Setup
+![Dell OptiPlex 3070 Micro](images/optiplex3070.jpg)
+
+### Proxmox / Docker
+![Homepage](images/homepage.png)
+![Portainer Dashboard](images/portainer.png)
+
 
 ---
 
